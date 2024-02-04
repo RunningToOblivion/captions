@@ -40,7 +40,7 @@
   ]
  },
  {
-  "translatedText": "Si vous colorez toutes les valeurs de c qui font que ce processus reste limité en noir et que vous appliquez un dégradé de couleurs aux autres valeurs, où la couleur dépend de la rapidité avec laquelle le processus explose jusqu'à l'infini, vous obtenez cette forme emblématique de cardioïde avec des bulles",
+  "translatedText": "Si vous coloriez toutes les valeurs de c qui font que ce processus reste borné en noir et que vous appliquez un dégradé de couleurs aux autres valeurs, où la couleur dépend de la rapidité avec laquelle le processus explose jusqu'à l'infini, vous obtenez cette forme emblématique de cardioïde avec des bulles",
   "input": "If you color all of the values of c that cause this process to stay bounded black, and you apply some gradient of colors to the other values, where the color depends on how quickly the process blows up to infinity, you get this iconic, cardioid-with-bubbles shape.",
   "time_range": [
    42.06,
